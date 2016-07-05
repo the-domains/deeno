@@ -1,0 +1,14 @@
+layout_spectrum: 0.05418543890118599
+typography_spectrum: 0.00630851904861629
+color:
+  brandStrength: 0.6378086567856371
+  lightness: 0.5740329620894045
+  saturation: 0.7630191096104681
+  rhythmicContrast: 0.33183637261390686
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: 'Deeno '
